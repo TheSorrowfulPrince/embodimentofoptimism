@@ -28,7 +28,7 @@ $${\color{teal}at \space every \space turn \space I \space learn \space that \sp
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568171910087581786/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3135343134313332303838373738...613235623637623136653638356463313232383130316662616336313263353326__fliter--dark-crimson-sepia__channel--red__mode--normal.png?ex=6aeed966&is=6aed87e6&hm=4d8f552f365e928ced76f2589a66a674cd59ed0008bcc43f7775540990fca566&" width="300">
+  <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568174708812419152/Untitled11_20261106160327__fliter--dark-crimson-sepia__channel--red__mode--soft-light.png?ex=6aeedc01&is=6aed8a81&hm=d25b42fd8beaf453a36659a6edbdb67c25177715661ba51e15487311a64007bb&" width="300">
 <p align="center">
 $${\color{lightyellow}My \space knight \space in \space shining \space armor \space (⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡}$$
 </p>
