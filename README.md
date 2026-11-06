@@ -6,11 +6,6 @@ $${\color{lightyellow}I \space \space keep \space thinking \space surely \space 
   <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568094250027978752/Untitled10_20261106103920__fliter--purple-warm__channel--red__mode--normal_1.png?ex=6aee9112&is=6aed3f92&hm=03ab517441a63c74bafda98c77c327e419a55cff1d9ee7c554f93edc5d510e1a&" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ls2mprdx6aii6pnue6l4anvae&cover_image=true&theme=novatorem&show_offline=false&background_color=280047&interchange=false&profanity=false&hide_remaster=false&bar_color=fffaba&bar_color_cover=false">
-  </a>
-</p>
 
 <p align="center">
 $${\color{teal}at \space every \space turn \space I \space learn \space that \space no \space one \space will.}$$
@@ -18,6 +13,12 @@ $${\color{teal}at \space every \space turn \space I \space learn \space that \sp
 
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568125936908632074/line-tuta01.png?ex=6aeeae95&is=6aed5d15&hm=6461070288e800342f4f87fca0d82848ddd2d732404a8bc184545154aa60a5e5&" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ls2mprdx6aii6pnue6l4anvae&cover_image=true&theme=novatorem&show_offline=false&background_color=280047&interchange=false&profanity=false&hide_remaster=false&bar_color=fffaba&bar_color_cover=false">
+  </a>
 </p>
 
 <p align="center">
