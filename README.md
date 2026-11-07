@@ -6,7 +6,7 @@
 
 <p align="center">
 $${\color{lightyellow}It \space didn't \space have  \space to  \space be  \space this \space way, \space
-You  \space know \space it  \space didn't  \space have  \space to  \space be. .}$$
+you  \space know \space it  \space didn't  \space have  \space to  \space be. .}$$
 </p>
 
 <p align="center">
