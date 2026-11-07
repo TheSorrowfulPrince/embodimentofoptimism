@@ -33,6 +33,7 @@ $${\color{teal}at \space every \space turn \space I \space learn \space that \sp
   <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568209300151869530/tumblr_4e69fac4ebe4354d79c4a85ac99f1ce1_130ddc1e_250.png?ex=6aeefc39&is=6aedaab9&hm=024c06d267f840c55e61d0fa6f40dd1546407e3b6f36dc553087585bac31a26b&" />
   <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568210738575581264/Tumblr_l_26732147661977.gif?ex=6aeefd90&is=6aedac10&hm=03172e156eaeb4eeb310db8d8b954e812a512ed8322d0d02841abedffb5c5128&" /> <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568210739020435586/Tumblr_l_26740857154054.gif?ex=6aeefd90&is=6aedac10&hm=75af4ed1bf3ca3201bf3bb1eec2622b579f645a897bb67be1f9a0665c27827c2&" /> <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568210739431215195/Tumblr_l_26747330890901.gif?ex=6aeefd90&is=6aedac10&hm=632dafb664a75260fed4ae2782580de232e79d40aff61e82a7ad27281aaf726b&" />
   <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568210739762700288/Tumblr_l_26763272181979.jpg?ex=6aeefd90&is=6aedac10&hm=6e5a5ae765544b33e4d3f1e524cb1caecabc07ac8d4ac055598c468a53836a44&" />
+  <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568446482837798992/Tumblr_l_54907983004887.jpg?ex=6aefd91d&is=6aee879d&hm=a394908e14bde984f64fac7e0a459e44355ba35d2c6cca509c92b6597c954be4&" />
 </p>
 
 <p align="center">
