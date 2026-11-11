@@ -1,12 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568629737935339550/54.gif?ex=6af083c9&is=6aef3249&hm=ad1d608f22a47c4aeea03e962c77d0b2616573eaf522521dbf24b06aab61af23&" />
-</p>
-
-
-
-<p align="center">
-$${\color{lightyellow}It \space didn't \space have  \space to  \space be  \space this \space way, \space
-you  \space know \space it  \space didn't  \space have  \space to  \space be. .}$$
+  <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568629736261951669/39.gif?ex=6af083c8&is=6aef3248&hm=4b928c9b9d2057fa72b8a2395a1436c6ea92720f156b2fb52909332571207960&" />
 </p>
 
 <p align="center">
@@ -15,7 +8,7 @@ you  \space know \space it  \space didn't  \space have  \space to  \space be. .}
 
 
 <p align="center">
-$${\color{teal}but \space it's \space the \space end \space of \space the \space line, \space so \space goodbye.}$$
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=35&pause=1000&color=F7E970&center=true&vCenter=true&width=435&lines=The+pain+of+your+story+cannot+take+control+over+your+life%2C;You+were+strong+and+you+were+weak.;No+one+can+take+your+will+as+a+royal+guard.;For+there+is+a+will%2C+there+is+hope." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
